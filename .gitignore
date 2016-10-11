@@ -23,3 +23,5 @@ node_modules
 # Optional npm cache directory
 .npm
 
+# ignore .sqlite being created by the data/connectors.js
+*.sqlite
